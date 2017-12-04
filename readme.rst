@@ -2,13 +2,13 @@
 Reporte de facturación
 ###################
 
-Descripcion
+Descripción
 
 **************************
 Cambios
 **************************
 
-Descripcion
+Descripción
 
 *******************
 Requerimientos
@@ -16,6 +16,7 @@ Requerimientos
 
 PHP version 5.6 o mas nueva.
 En debian 9 instalar los siguientes paquetes:
+
 - apache2 php php-mysql php-gd php-mcrypt git
 
 ************
