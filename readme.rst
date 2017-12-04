@@ -23,5 +23,6 @@ En debian 9 instalar los siguientes paquetes:
 Instalación
 ************
 
-- Copiar el archivo config/database.php.sample a config/database.php (cp config/database.php.sample config/database.php)
-- Editar el archivo con los datos de conexion a la base de datos
+- Clonar el repositorio en /var/www/html/ (git clone https://github.com/jefonseca/breport.git)
+- Copiar el archivo de la carpeta config database.php.sample a database.php (cp breport/config/database.php.sample breport/config/database.php)
+- Editar el archivo database.php y poner los datos de conexión a la base de datos
